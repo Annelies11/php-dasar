@@ -12,3 +12,5 @@ $person1->country = "Indonesia";
 echo "Name : $person1->name".PHP_EOL;
 echo "Name : $person1->address".PHP_EOL;
 echo "Name : $person1->country".PHP_EOL;
+
+$person1->sayHello("Bro");
